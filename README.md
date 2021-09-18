@@ -1,2 +1,2 @@
 # Tugas 1
-Nama benda : Bola
+Nama benda : Bungkus Karton
