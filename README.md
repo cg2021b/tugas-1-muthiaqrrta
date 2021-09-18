@@ -1,1 +1,2 @@
-# tugas-1-muthiaqrrta
+# Tugas 1
+Nama benda : Bola
