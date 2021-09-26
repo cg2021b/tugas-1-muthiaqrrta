@@ -1,5 +1,5 @@
 # Tugas 1
-Nama benda : Bungkus Karton
+Nama benda : Botol Minum
 
 ### Bagian Depan Atas
 <img src="https://github.com/cg2021b/tugas-1-muthiaqrrta/blob/main/image/Bagian%20Depan%20Atas.jpeg" width=40%; height=40%>
