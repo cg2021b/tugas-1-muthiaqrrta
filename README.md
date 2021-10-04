@@ -7,6 +7,7 @@ NRP   : 05111940000019
 Botol Minum
 
 ## Gambar Benda Menggunakan WebGL
+<img src="https://media.giphy.com/media/KCOB1qXQ4uaNiy96wz/giphy.gif" width=40%; height=40%>
 
 ## Foto Benda 
 ### Bagian Depan Atas
