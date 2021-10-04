@@ -1,6 +1,14 @@
 # Tugas 1
-Nama benda : Botol Minum
+Nama  : Muthia Qurrota Akyun
+NRP   : 05111940000019
 
+## Nama Benda
+Botol Minum
+
+## Gambar Benda Menggunakan WebGL
+
+
+## Foto Benda 
 ### Bagian Depan Atas
 <img src="https://github.com/cg2021b/tugas-1-muthiaqrrta/blob/main/images/Bagian%20Depan%20Atas.jpeg" width=40%; height=40%>
 
