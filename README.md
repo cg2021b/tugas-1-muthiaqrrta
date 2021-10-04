@@ -7,7 +7,7 @@ NRP   : 05111940000019
 Botol Minum
 
 ## Gambar Benda Menggunakan WebGL
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/KCOB1qXQ4uaNiy96wz" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KCOB1qXQ4uaNiy96wz">via GIPHY</a></p>
 
 ## Foto Benda 
 ### Bagian Depan Atas
