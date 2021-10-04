@@ -8,8 +8,6 @@ Botol Minum
 
 ## Gambar Benda Menggunakan WebGL
 
-<iframe src="https://giphy.com/embed/KCOB1qXQ4uaNiy96wz" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 ## Foto Benda 
 ### Bagian Depan Atas
 <img src="https://github.com/cg2021b/tugas-1-muthiaqrrta/blob/main/images/Bagian%20Depan%20Atas.jpeg" width=40%; height=40%>
