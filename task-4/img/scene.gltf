@@ -3703,10 +3703,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Chrome_baseColor.jpeg"
+      "uri": "texture/Chrome_baseColor.jpeg"
     },
     {
-      "uri": "textures/BodyPaint_baseColor.jpeg"
+      "uri": "texture/BodyPaint_baseColor.jpeg"
     }
   ],
   "materials": [
